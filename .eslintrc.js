@@ -95,5 +95,8 @@ module.exports = {
         ],
       },
     ],
+    'quotes': [
+      'off', // Disables the rule for enforcing either single or double quotes.
+    ],
   },
 };
