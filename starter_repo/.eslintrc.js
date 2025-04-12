@@ -18,7 +18,7 @@ module.exports = {
     'react',
   ],
   rules: {
-    "jsx-quotes": "off", // turn off jsx-quotes rule
+    'jsx-quotes': [2, 'prefer-single'],
     'react/no-unescaped-entities': 0,
     'eslintreact/no-danger': 0,
     'react/jsx-max-props-per-line': 0,
